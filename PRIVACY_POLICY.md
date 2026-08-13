@@ -52,4 +52,4 @@
 
 본 앱과 관련한 문의사항은 아래 이메일로 연락 주시기 바랍니다.
 
-**이메일: jansoriapp@gmail.com**
+**이메일: jansori.app@gmail.com**
